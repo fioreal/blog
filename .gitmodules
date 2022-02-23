@@ -1,0 +1,7 @@
+[submodule "themes/vno-hugo"]
+	path = themes/vno-hugo
+	url = https://github.com/xslingcn/vno-hugo.git
+[submodule "public"]
+	path = public
+	url = git@github.com:fioreal/blog.git
+	branch = main
