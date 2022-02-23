@@ -1,6 +1,6 @@
 # Basic
 title = "Fio Blog"
-baseURL = "https://fioreal.github.io/blog/"
+baseURL = "http://blog.ctrl.pw"
 theme = "vno-hugo"
 
 # Pagination
@@ -11,11 +11,11 @@ paginatePath = "page"
   home = ["HTML", "RSS"]
 
 [menu]
-  [[menu.main]]
-    name = "Projects"
-    identifier = "projects"
-    url = "http://project.onevcat.com/"
-    weight = 10
+#  [[menu.main]]
+#    name = "Projects"
+#    identifier = "projects"
+#    url = "http://project.onevcat.com/"
+#    weight = 10
  [[menu.main]]
     name = "Tags"
     identifier = "Tags"
